@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "愛が痛かった",
+  "base_artist": "≒JOY",
+  "createdAt": "2026-03-24T10:23:49.007689Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が痛かった",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_愛が痛かった_≒JOY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "愛が痛かった",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/localdb_01_愛が痛かった_≒JOY.lrc",
+      "repo_name": "SKiYrKPmnJQ"
+    }
+  ]
+}
